@@ -3,8 +3,11 @@
 MS Computer Science @ Stony Brook | Backend · Voice Agents · Applied AI/ML | Open to new grad roles (May 2027)
 
 🔭 MTS Intern @ DevRev --> shipped production features for Kilmer (DevRev's AI negotiation-advisor agent): real-time STT via Deepgram, full voice-agent mode, LLM guardrail auditing at scale, and agentic UX state machines
+
 🤝 Open to collaborating on backend systems, data engineering pipelines, or applied ML/NLP projects
+
 💬 Ask me about Python, voice agent pipelines, TCP congestion control, clinical NLP, or Rust
+
 ⚡ 5 published papers on AI in healthcare before finishing undergrad; CITI-certified for human subjects and clinical data research
 
 ## 🌐 Socials:
